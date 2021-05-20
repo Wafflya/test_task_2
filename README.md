@@ -101,5 +101,5 @@ P.S. Вывод немного не совсем такого вида, как �
 Запрос можно делать к любой базе данных (mongodb, postgresql или другие) любым способом
 
 
-Решение - https://github.com/Wafflya/test_task_2/blob/main/second_task.py (функция на python)
+Решение - https://github.com/Wafflya/test_task_2/blob/main/second_task.py (скрипт на python)
 
