@@ -4,12 +4,12 @@
 ###
 1. В коллекции пользователей 'Account' лежат документы вида:
 
-{
-  'number': '7800000000000',
-  'name': 'Пользователь №',
-  'sessions': [
     {
-      'created_at': ISODate(
+      'number': '7800000000000',
+      'name': 'Пользователь №',
+      'sessions': [
+        {
+           'created_at': ISODate(
       '2016-01-01T00:00:00'
       ),
       'session_id': '6QBnQhFGgDgC2FDfGwbgEaLbPMMBofPFVrVh9Pn2quooAcgxZc',
